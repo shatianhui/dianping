@@ -28,6 +28,7 @@ public class SpringMvcConfig implements WebMvcConfigurer {
                 "/user/code",
                 "/shop/*",
                 "/blog/*",
-                "/shop-type/*");
+                "/shop-type/*",
+                "/voucher/*");
     }
 }
